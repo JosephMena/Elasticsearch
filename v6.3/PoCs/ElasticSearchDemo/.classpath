@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/app/librerias/transport-6.3.0.jar"/>
+	<classpathentry kind="lib" path="/app/librerias/elasticsearch-6.3.0.jar"/>
+	<classpathentry kind="lib" path="/app/librerias/transport-netty4-client-6.3.0.jar"/>
+	<classpathentry kind="lib" path="/app/librerias/reindex-client-6.3.0.jar"/>
+	<classpathentry kind="lib" path="/app/librerias/parent-join-client-6.3.0.jar"/>
+	<classpathentry kind="lib" path="/app/librerias/percolator-client-6.3.0.jar"/>
+	<classpathentry kind="lib" path="/app/librerias/rank-eval-client-6.3.0.jar"/>
+	<classpathentry kind="lib" path="/app/librerias/lang-mustache-client-6.3.0.jar"/>
+	<classpathentry kind="lib" path="/app/librerias/elasticsearch-core-6.3.0.jar"/>
+	<classpathentry kind="lib" path="/app/librerias/elasticsearch-x-content-6.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
